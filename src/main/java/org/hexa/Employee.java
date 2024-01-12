@@ -14,12 +14,21 @@ public class Employee {
 		System.out.println("method3");
 	}
 
+	public void tamilNadu() {
+		System.out.println("tamilNadu");
+	}
+
+	public void kerala() {
+		System.out.println("kerala");
+	}
+
 	public void india() {
 		System.out.println("india");
 	}
 
 	public void australiya() {
 		System.out.println("australiya");
+
 	}
 
 }

@@ -14,4 +14,12 @@ public class Employee {
 		System.out.println("method3");
 	}
 
+	public void india() {
+		System.out.println("india");
+	}
+
+	public void australiya() {
+		System.out.println("australiya");
+	}
+
 }
